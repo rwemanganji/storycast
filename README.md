@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # storycast
-=======
+
 # StoryCast - Rwanda Rising
 This is an accessible microsite showcasing Rwanda Rising.
 
@@ -50,4 +49,3 @@ Responsive	            Grid + Flexbox, with a container query on the media card
 Install Sass: npm install -g sass
 Compile the styles: sass sass/main.scss css/main.css
 Open index.html in your browser (or use the VS Code Live Server extension).
->>>>>>> 0120908 (storycast)
